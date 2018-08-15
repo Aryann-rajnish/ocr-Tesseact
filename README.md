@@ -3,8 +3,9 @@
 Optical Character Recognition deals with the problem of recognizing optically processed
 characters.
 # Installation 
-# sudo apt-get install tesseract-ocr 
-# sudo apt install libtesseract-dev   
-# sudo pip install pytesseract
+
+1 sudo apt-get install tesseract-ocr 
+2 sudo apt install libtesseract-dev   
+3 sudo pip install pytesseract
 # Run the code via
 python main.py <input path> <output path>
