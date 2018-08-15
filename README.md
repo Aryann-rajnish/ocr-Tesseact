@@ -9,4 +9,4 @@ characters.
 (3) sudo pip install pytesseract
 
 # Run the code via
-python main.py <input path> <output path>
+python main.py input_path output_path
