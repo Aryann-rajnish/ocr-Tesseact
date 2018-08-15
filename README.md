@@ -1,4 +1,4 @@
-# ocr-Tesseact
+# ocr-tesseract
 # optical character recognition using tesseract
 Optical Character Recognition deals with the problem of recognizing optically processed
 characters.
